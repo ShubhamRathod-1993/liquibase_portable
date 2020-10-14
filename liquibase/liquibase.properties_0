@@ -1,0 +1,7 @@
+changeLogFile: changelog.xml
+driver: oracle.jdbc.OracleDriver
+url: jdbc:oracle:thin:OT/orcl@SHUBHAMRATHOD:1521/orcl
+username: OT
+password: orcl
+classpath: lib/ojdbc6.jar
+liquibaseSchemaName: LIQUIBASE
